@@ -1,0 +1,21 @@
+{
+  "name": "quorum-chainstack",
+  "version": "1.0.0",
+  "description": "Test project to create a Quorum consortium",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NJW",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^4.0.0",
+    "truffle-hdwallet-provider": "^1.0.6"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.0.37"
+  }
+}
